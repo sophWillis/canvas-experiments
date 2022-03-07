@@ -10,10 +10,11 @@ body {
   align-items: center;
   width: 100%;
   height: 100vh;
-  background-color: black;
+  background: url("../static/premium-products-hero.png") no-repeat;
+  background-size: cover;
 }
 
-canvas {
+/* canvas {
   height: 300px;
   width: 500px;
-}
+} */
